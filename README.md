@@ -33,19 +33,21 @@
 ---
 
 ### 🚀 Features
-## 🧠 AI-Powered Code Reviews
+#### 🧠 AI-Powered Code Reviews
 Instantly review any code snippet using cutting-edge generative AI.
 
 ## 💡 Syntax Highlighting
 View beautiful, color-coded code with support for multiple languages.
 
-## ⚙️ Live Feedback
+#### ⚙️ Live Feedback
 Get real-time, markdown-formatted AI responses with code suggestions.
 
-## 🌐 Seamless Frontend–Backend Communication
+#### 🌐 Seamless Frontend–Backend Communication
 Axios-driven API for reliable, fast communication.
 
-## 🚀 Getting Started
+---
+
+#### 🚀 Getting Started
 
 ### 🔧 Prerequisites
 
