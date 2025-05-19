@@ -1,0 +1,12 @@
+backend dependencies 
+npm i express
+npm i cors
+npm i @google/geneative-ai
+npm i dotenv
+
+frontend 
+npm i prismjs
+npm i react-simple-code-editor
+npm i axios
+npm i react-markdown 
+npm i rehype-highlight
