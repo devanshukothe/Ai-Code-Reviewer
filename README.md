@@ -36,7 +36,7 @@
 #### 🧠 AI-Powered Code Reviews
 Instantly review any code snippet using cutting-edge generative AI.
 
-## 💡 Syntax Highlighting
+#### 💡 Syntax Highlighting
 View beautiful, color-coded code with support for multiple languages.
 
 #### ⚙️ Live Feedback
@@ -64,7 +64,7 @@ cd codereviewer
 
 
 ---
-### 🔙 Backend
+## 🔙 Backend
 Express – Minimalist web framework for Node.js
 
 CORS – Middleware to enable cross-origin requests
@@ -73,7 +73,7 @@ CORS – Middleware to enable cross-origin requests
 
 dotenv – Environment variable management
 
-### 🔜 Frontend
+## 🔜 Frontend
 React – UI library for building reactive interfaces
 
 react-simple-code-editor – Lightweight code editor component
