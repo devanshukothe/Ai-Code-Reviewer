@@ -1,7 +1,7 @@
 # Ai-Code-Reviewer
 # 🧠 CodeReviewer
 
-> A modern, cloud-powered code review platform built with **ERN (Express, React, Node.js)** and **Google API integration**.  
+> A modern, cloud-powered code review platform built with **RS (React, Spring boot)** and **Google API integration**.  
 > Designed for teams who value clean code, seamless collaboration, and no-database simplicity.
 
 ![CodeReviewer Banner](https://your-cdn.com/banner-image.png)
@@ -25,7 +25,7 @@
 | Layer       | Tech                            |
 |-------------|----------------------------------|
 | Frontend    | React + Vite + Tailwind CSS      |
-| Backend     | Node.js + Express                |
+| Backend     | Spring Boot                      |
 | Auth & Cloud| Google APIs (Drive, OAuth2)      |
 | Editor      | Monaco Editor / CodeMirror       |
 | Storage     | Google Drive or local FS         |
@@ -65,7 +65,6 @@ cd codereviewer
 
 ---
 ## 🔙 Backend
-Express – Minimalist web framework for Node.js
 
 CORS – Middleware to enable cross-origin requests
 
